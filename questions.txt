@@ -1,0 +1,3 @@
+1. git push command
+2. animations in tailwind
+3. flex child arrangement
